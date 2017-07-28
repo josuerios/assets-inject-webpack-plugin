@@ -15,7 +15,6 @@
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
     "group-array": "^0.3.3",
-    "gulp-inject": "^4.2.0",
     "stream-to-array": "^2.3.0",
     "through2": "^2.0.3",
     "vinyl-fs": "^2.4.4"
