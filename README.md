@@ -35,3 +35,11 @@ module.exports = config;
 * JSX `.jsx`
 * LESS `.less`
 * SASS/SCSS `.sass/.scss`
+
+Contribute
+===============
+
+Commit Messages
+-------
+Rules are adopted from [the AngularJS commit conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/).
+
