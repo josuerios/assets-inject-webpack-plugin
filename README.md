@@ -1,7 +1,7 @@
 # assets-inject-webpack-plugin
 
 Inject assets into any kind of template, using the core implementation of [gulp-inject](https://github.com/klei/gulp-inject).
-In fact the plugin constructor uses the same options.
+In fact the plugin constructor uses the API of gulp-inject.
 
 ## Usage
 ````js 
