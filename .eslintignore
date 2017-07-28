@@ -1,0 +1,6 @@
+src/client/vendor/*
+build/*
+docs/*
+node_modules/*
+src/client/app/commons/uib-modal
+src/client/app/commons/md

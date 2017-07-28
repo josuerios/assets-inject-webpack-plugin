@@ -1,0 +1,56 @@
+{
+	"env": {
+		"node": true,
+		"mocha": true,
+		"browser": false,
+		"es6": false
+	},
+	"extends": "eslint:recommended",
+	"parserOptions": {
+		"ecmaVersion": 5
+	},
+	"rules": {
+		//Style configuration
+		"indent": [
+			2,
+			"tab",
+			{
+				"SwitchCase": 1,
+				"VariableDeclarator": 2
+			}
+		],
+		"space-before-function-paren": [
+			2,
+			{
+				"anonymous": "always",
+				"named": "never"
+			}
+		],
+		"no-use-before-define": [
+			2,
+			"nofunc"
+		],
+		"comma-dangle": [
+			1
+		],
+		"linebreak-style": [
+			2,
+			"unix"
+		],
+		"quotes": [
+			2,
+			"single"
+		],
+		//Best Practices
+		"no-multi-spaces": 2,
+		"no-alert": 2,
+		"no-console": 0,
+		"no-new-wrappers": 2,
+		"no-useless-concat": 2,
+		"no-self-compare": 2,
+		"no-trailing-spaces": 2,
+		"radix": 2,
+		"no-magic-numbers": 0,
+		"no-floating-decimal": 2
+	}
+}
